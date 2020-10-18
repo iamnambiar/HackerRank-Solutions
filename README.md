@@ -5,6 +5,9 @@
 
 <p align="center">My Solutions to Hackerrank problems.</p>
 
+[![Commit activity](https://img.shields.io/github/commit-activity/m/iamnambiar/HackerRank-Solutions)](https://github.com/iamnambiar/HackerRank-Solutions) 
+[![Repo size](https://img.shields.io/github/repo-size/iamnambiar/HackerRank-Solutions)](https://github.com/iamnambiar/HackerRank-Solutions) 
+
 ## Algorithms
 - Warmup
 - Implementation
