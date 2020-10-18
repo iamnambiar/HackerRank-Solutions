@@ -6,6 +6,15 @@
 <p align="center">My Solutions to Hackerrank problems.</p>
 
 
+## C++
+- Introduction
+- Strings
+- Classes
+- STL
+- Inheritance
+- Debugging
+- Other Concepts
+
 ## 30 Days of Code
 - Day 0 - Hello World
 - Day 1 - Data Types
