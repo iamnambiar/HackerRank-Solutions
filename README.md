@@ -71,22 +71,22 @@
 |-------|----------|------------|
 |[Day 0 - Hello World](https://www.hackerrank.com/challenges/30-hello-world/) | [C++](./30%20Days%20of%20Code/Day%200%20Hello%20World/Solution.cpp) <br> [Python](/30%20Days%20of%20Code/Day%200%20Hello%20World/Solution.py) | Easy |
 |[Day 1 - Data Types](https://www.hackerrank.com/challenges/30-data-types/) | [C++](/30%20Days%20of%20Code/Day%201%20Data%20Types/Solution.cpp) <br> [Python](/30%20Days%20of%20Code/Day%201%20Data%20Types/Solution.py) | Easy |
-|[Day 2 - Operators](https://www.hackerrank.com/challenges/30-operators/) | C++ <br> Python | Easy |
-|[Day 3 - Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/) | C++ <br> Python | Easy |
-|[Day 4 - Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/) | C++ <br> Python | Easy |
+|[Day 2 - Operators](https://www.hackerrank.com/challenges/30-operators/) | [C++](./30%20Days%20of%20Code/Day%203%20Intro%20to%20Conditional%20Statements/Solution.cpp) <br> [Python](30%20Days%20of%20Code/Day%203%20Intro%20to%20Conditional%20Statements/Solution.py) | Easy |
+|[Day 3 - Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/) | [C++](./30%20Days%20of%20Code/Day%204%20Class%20vs.%20Instance/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%204%20Class%20vs.%20Instance/Solution.py) | Easy |
+|[Day 4 - Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/) | [C++](./30%20Days%20of%20Code/Day%204%20Class%20vs.%20Instance/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%204%20Class%20vs.%20Instance/Solution.py) | Easy |
 |[Day 5 - Loops](https://www.hackerrank.com/challenges/30-loops/) | C++ <br> Python | Easy |
 |[Day 6 - Let's Review](https://www.hackerrank.com/challenges/30-review-loop/) | C++ <br> Python | Easy |
 |[Day 7 - Arrays](https://www.hackerrank.com/challenges/30-arrays/) | C++ <br> Python | Easy |
 |[Day 8 - Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/) | C++ <br> Python | Easy |
 |[Day 9 - Recursion 3](https://www.hackerrank.com/challenges/30-recursion/) | C++ <br> Python | Easy |
-|[Day 10 - Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/) | C++ <br> Python | Easy |
-|[Day 11 - 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/) | C++ <br> Python | Easy |
-|[Day 12 - Inheritance](https://www.hackerrank.com/challenges/30-inheritance/) | C++ <br> Python | Easy |
-|[Day 13 - Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/) | C++ <br> Python | Easy |
-|[Day 14 - Scope](https://www.hackerrank.com/challenges/30-scope/) | C++ <br> Python | Easy |
-|[Day 15 - Linked List](https://www.hackerrank.com/challenges/30-linked-list/) | C++ <br> Python | Easy |
-|[Day 16 - Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/) | C++ <br> Python | Easy |
-|[Day 17 - More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/) | C++ <br> Python | Easy |
+|[Day 10 - Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/) | [C++](./30%20Days%20of%20Code/Day%2010%20Binary%20Numbers/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2010%20Binary%20Numbers/Solution.py) | Easy |
+|[Day 11 - 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/) | [C++](./30%20Days%20of%20Code/Day%2011%202D%20Arrays/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2011%202D%20Arrays/Solution.py) | Easy |
+|[Day 12 - Inheritance](https://www.hackerrank.com/challenges/30-inheritance/) | [C++](./30%20Days%20of%20Code/Day%2012%20Inheritance/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2012%20Inheritance/Solution.py) | Easy |
+|[Day 13 - Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/) | [C++](./30%20Days%20of%20Code/Day%2013%20Abstract%20Classes/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2013%20Abstract%20Classes/Solution.py) | Easy |
+|[Day 14 - Scope](https://www.hackerrank.com/challenges/30-scope/) | [C++](./30%20Days%20of%20Code/Day%2014%20Scope/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2014%20Scope/Solution.py) | Easy |
+|[Day 15 - Linked List](https://www.hackerrank.com/challenges/30-linked-list/) | [C++](./30%20Days%20of%20Code/Day%2015%20Linked%20List/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2015%20Linked%20List/Solution.py) | Easy |
+|[Day 16 - Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/) | [C++](./30%20Days%20of%20Code/Day%2016%20Exceptions%20-%20String%20to%20Integer/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2016%20Exceptions%20-%20String%20to%20Integer/Solution.py) | Easy |
+|[Day 17 - More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/) | [C++](./30%20Days%20of%20Code/Day%2017%20More%20Exceptions/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2017%20More%20Exceptions/Solution.py) | Easy |
 |[Day 18 - Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/) | C++ <br> Python | Easy |
 |[Day 19 - Interfaces](https://www.hackerrank.com/challenges/30-queues-stacks/) | C++ <br> Python | Easy |
 |[Day 20 - Sorting](https://www.hackerrank.com/challenges/30-sorting/) | C++ <br> Python | Easy |
@@ -95,7 +95,7 @@
 |[Day 23 - BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/) | C++ <br> Python | Easy |
 |[Day 24 - More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/) | C++ <br> Python | Easy |
 |[Day 25 - Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/) | C++ <br> Python | Medium |
-|[Day 26 - Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/) | C++ <br> Python | Easy |
-|[Day 27 - Testing](https://www.hackerrank.com/challenges/30-testing/) | C++ <br> Python | Easy |
-|[Day 28 - RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/) | C++ <br> Python | Medium |
-|[Day 29 - Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/) | C++ <br> Python | Medium |
+|[Day 26 - Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/) | [C++](./30%20Days%20of%20Code/Day%2026%20Nested%20Logic/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2026%20Nested%20Logic/Solution.py) | Easy |
+|[Day 27 - Testing](https://www.hackerrank.com/challenges/30-testing/) | [C++](./30%20Days%20of%20Code/Day%2027%20Testing/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2027%20Testing/Solution.py) | Easy |
+|[Day 28 - RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/) | [C++](./30%20Days%20of%20Code/Day%2028%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2028%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/Solution.py) | Medium |
+|[Day 29 - Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/) | [C++](./30%20Days%20of%20Code/Day%2029%20Bitwise%20AND/Solution.cpp) | Medium |
