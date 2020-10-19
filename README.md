@@ -69,8 +69,8 @@
 
 | Title | Language | Difficulty |
 |-------|----------|------------|
-|[Day 0 - Hello World](https://www.hackerrank.com/challenges/30-hello-world/) | C++ <br> Python | Easy |
-|[Day 1 - Data Types](https://www.hackerrank.com/challenges/30-data-types/) | C++ <br> Python | Easy |
+|[Day 0 - Hello World](https://www.hackerrank.com/challenges/30-hello-world/) | [C++](./30%20Days%20of%20Code/Day%200%20Hello%20World/Solution.cpp) <br> [Python](/30%20Days%20of%20Code/Day%200%20Hello%20World/Solution.py) | Easy |
+|[Day 1 - Data Types](https://www.hackerrank.com/challenges/30-data-types/) | [C++](/30%20Days%20of%20Code/Day%201%20Data%20Types/Solution.cpp) <br> [Python](/30%20Days%20of%20Code/Day%201%20Data%20Types/Solution.py) | Easy |
 |[Day 2 - Operators](https://www.hackerrank.com/challenges/30-operators/) | C++ <br> Python | Easy |
 |[Day 3 - Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/) | C++ <br> Python | Easy |
 |[Day 4 - Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/) | C++ <br> Python | Easy |
