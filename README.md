@@ -64,7 +64,7 @@
 - Day 28 - RegEx, Patterns, and Intro to Databases
 - Day 29 - Bitwise AND
 
-### 30 Days of Code
+## 30 Days of Code
 
 | Title | Language | Difficulty |
 |-------|----------|------------|
@@ -98,3 +98,58 @@
 |[Day 27 - Testing](https://www.hackerrank.com/challenges/30-testing/) | [C++](./30%20Days%20of%20Code/Day%2027%20Testing/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2027%20Testing/Solution.py) | Easy |
 |[Day 28 - RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/) | [C++](./30%20Days%20of%20Code/Day%2028%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/Solution.cpp) <br> [Python](./30%20Days%20of%20Code/Day%2028%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/Solution.py) | Medium |
 |[Day 29 - Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/) | [C++](./30%20Days%20of%20Code/Day%2029%20Bitwise%20AND/Solution.cpp) | Medium |
+
+
+## C++
+
+### Introduction
+
+| Title | Language | Difficulty |
+|-------|----------|------------|
+|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
+|[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output) | [C++](./C++/Introduction/Input%20and%20Output/Solution.cpp) | Easy |
+|[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types) | [C++](./C++/Introduction/Basic%20Data%20Types/Solution.cpp) | Easy |
+|[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else) | [C++](./C++/Introduction/Conditional%20Statements/Solution.cpp) | Easy |
+|[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop) | [C++](./C++/Introduction/For%20Loop/Solution.cpp) | Easy |
+|[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | [C++](./C++/Introduction/Functions/Solution.cpp) | Easy |
+|[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer) | [C++](./C++/Introduction/Pointer/Solution.cpp) | Easy |
+|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction) | [C++](./C++/Introduction/Arrays%20Introduction/Solution.cpp) | Easy |
+|[Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays) | [C++](./C++/Introduction/Variable%20Sized%20Arrays/Solution.cpp) | Easy |
+
+### Strings
+
+| Title | Language | Difficulty |
+|-------|----------|------------|
+|[StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream) | [C++](./C++/Introduction/StringStream/Solution.cpp) | Easy |
+|[Strings](https://www.hackerrank.com/challenges/c-tutorial-strings) | [C++](./C++/Introduction/Strings/Solution.cpp) | Easy |
+<!--
+### Classes
+
+| Title | Language | Difficulty |
+|-------|----------|------------|
+|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
+
+### STL
+
+| Title | Language | Difficulty |
+|-------|----------|------------|
+|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
+
+### Inheritance
+
+| Title | Language | Difficulty |
+|-------|----------|------------|
+|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
+
+### Debugging
+
+| Title | Language | Difficulty |
+|-------|----------|------------|
+|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
+
+### Other Concepts
+
+| Title | Language | Difficulty |
+|-------|----------|------------|
+|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
+-->
