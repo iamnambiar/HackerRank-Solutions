@@ -33,38 +33,6 @@
 - Other Concepts
 
 ## 30 Days of Code
-- Day 0 - Hello World
-- Day 1 - Data Types
-- Day 2 - Operators
-- Day 3 - Intro to Conditional Statements
-- Day 4 - Class vs Instance
-- Day 5 - Loops
-- Day 6 - Let's Review
-- Day 7 - Arrays
-- Day 8 - Dictionaries and Maps
-- Day 9 - Recursion 3
-- Day 10 - Binary Numbers
-- Day 11 - 2D Arrays
-- Day 12 - Inheritance
-- Day 13 - Abstract Class
-- Day 14 - Scope
-- Day 15 - Linked List
-- Day 16 - Exceptions - String to Integer
-- Day 17 - More Exceptions
-- Day 18 - Queues and Stacks
-- Day 19 - Interfaces
-- Day 20 - Sorting
-- Day 21 - Generics
-- Day 22 - Binary Search Trees
-- Day 23 - BST Level-Order Traversal
-- Day 24 - More Linked Lists
-- Day 25 - Running Time and Complexity
-- Day 26 - Nested Logic
-- Day 27 - Testing
-- Day 28 - RegEx, Patterns, and Intro to Databases
-- Day 29 - Bitwise AND
-
-## 30 Days of Code
 
 | Title | Language | Difficulty |
 |-------|----------|------------|
@@ -122,34 +90,48 @@
 |-------|----------|------------|
 |[StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream) | [C++](./C++/Introduction/StringStream/Solution.cpp) | Easy |
 |[Strings](https://www.hackerrank.com/challenges/c-tutorial-strings) | [C++](./C++/Introduction/Strings/Solution.cpp) | Easy |
-<!--
+
 ### Classes
 
 | Title | Language | Difficulty |
 |-------|----------|------------|
-|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
+|[Structs](https://www.hackerrank.com/challenges/c-tutorial-struct) | [C++](./C++/Classes/Structs/Solution.cpp) | Easy |
+|[Class](https://www.hackerrank.com/challenges/c-tutorial-class) | [C++](./C++/Classes/Class/Solution.cpp) | Easy |
+|[Classes and Objects](https://www.hackerrank.com/challenges/classes-objects) | [C++](./C++/Classes/Classes%20and%20Objects/Solution.cpp) | Easy |
+|[Box It!](https://www.hackerrank.com/challenges/box-it) | [C++](./C++/Classes/Box%20It!/Solution.cpp) | Easy |
+|[Inherited Code](https://www.hackerrank.com/challenges/inherited-code) | [C++](./C++/Classes/Inherited%20Code/Solution.cpp) | Medium |
+|[Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server) | [C++](/C++/Classes/Exceptional%20Server/Solution.cpp) | Medium |
+|[Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions) | [C++](./C++/Classes/Virtual%20Functions/Solution.cpp) | Medium |
 
 ### STL
 
 | Title | Language | Difficulty |
 |-------|----------|------------|
-|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
+|[Vector-Sort](https://www.hackerrank.com/challenges/vector-sort) | [C++](./C++/STL/Vector-Sort/Solution.cpp) | Easy |
+|[Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | [C++](./C++/STL/Vector-Erase/Solution.cpp) | Easy |
+|[Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound) | [C++](./C++/STL/Lower%20Bound-STL/Solution.cpp) | Easy |
+|[Sets-STL](https://www.hackerrank.com/challenges/cpp-sets) | [C++](./C++/STL/Sets-STL/Solution.cpp) | Easy |
+|[Maps-STL](https://www.hackerrank.com/challenges/cpp-maps) | [C++](./C++/STL/Maps-STL/Solution.cpp) | Easy |
+|[Print Pretty](https://www.hackerrank.com/challenges/prettyprint) | [C++](./C++/STL/Print%20Pretty/Solution.cpp) | Easy |
 
 ### Inheritance
 
 | Title | Language | Difficulty |
 |-------|----------|------------|
-|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
-
+|[Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction) | [C++](./C++/Inheritance/Inheritance%20Introduction/Solution.cpp) | Easy |
+|[Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area) | [C++](./C++/Inheritance/Rectangle%20Area/Solution.cpp) | Easy |
+|[Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp) | [C++](./C++/Inheritance/Multi%20Level%20Inheritance/Solution.cpp) | Easy |
+|[Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions) | [C++](./C++/Inheritance/Accessing%20Inherited%20Functions/Solution.cpp) | Medium |
+<!--
 ### Debugging
 
 | Title | Language | Difficulty |
 |-------|----------|------------|
-|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
+|[]() | [C++](./C++/Introduction//Solution.cpp) | Easy |
 
 ### Other Concepts
 
 | Title | Language | Difficulty |
 |-------|----------|------------|
-|[Say "Hello World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | [C++](./C++/Introduction/Say%20Hello%20World!%20with%20C++/Solution.cpp) | Easy |
+|[]() | [C++](./C++/Introduction//Solution.cpp) | Easy |
 -->
